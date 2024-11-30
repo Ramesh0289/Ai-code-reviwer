@@ -1,0 +1,2 @@
+GenAI App - AI Code Reviewer
+AI Code Reviewer is a Python application designed to streamline the code review process. Built with Streamlit for a user-friendly interface, it allows developers to submit their Python code for instant analysis. Leveraging OpenAI/GoogleAI APIs, the app identifies bugs, highlights errors, suggests improvements, and generates fixed code snippets. This project showcases the power of Generative AI in enhancing code quality and efficiency.
